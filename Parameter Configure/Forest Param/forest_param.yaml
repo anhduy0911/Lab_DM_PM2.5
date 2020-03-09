@@ -1,0 +1,7 @@
+'bootstrap': True
+'min_samples_leaf': 3
+'n_estimators': 50
+'min_samples_split': 10
+'max_features': 'auto'
+'max_depth': 6
+'max_leaf_nodes': 1000
