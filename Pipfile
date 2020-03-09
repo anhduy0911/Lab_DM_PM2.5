@@ -10,7 +10,7 @@ pandas = "*"
 xlrd = "*"
 matplotlib = "*"
 keras = "*"
-tensorflow = "==2.0.0"
+tensorflow = "==2.0.1"
 scikit-learn = "*"
 
 [requires]
